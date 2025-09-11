@@ -67,7 +67,7 @@ This dual-role system ensures flexibility — any user can act as both a farmer 
 
 ⚡ How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/Nandani-thakur/AgriMitra.git
+git clone https://github.com/shreeyasalunke/AgriMitra.git
 cd AgriMitra
 
 2️⃣ Backend (Spring Boot) Setup
